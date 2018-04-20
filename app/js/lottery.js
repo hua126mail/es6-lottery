@@ -1,9 +1,9 @@
 // 模块的整合
 import 'babel-polyfill';
-import Base from './lottery/base.js';
-import Timer from './lottery/timer.js';
-import Calculate from './lottery/calculate.js';
-import Interface from './lottery/interface.js';
+import Base from './lottery/base';
+import Timer from './lottery/timer';
+import Calculate from './lottery/calculate';
+import Interface from './lottery/interface';
 import $ from 'jquery';
 
 //深度拷贝
